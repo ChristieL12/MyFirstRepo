@@ -3,5 +3,6 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("12345");
 		System.out.println("My Phone Number is 12345678");
+		System.out.println("My address is Bellevue.");
 	}
 }
